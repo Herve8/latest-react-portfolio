@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//github.com/Herve8/react-portfolio/static/css/main.902e7ad7.chunk.css",
-    "main.js": "//github.com/Herve8/react-portfolio/static/js/main.f8fac3a7.chunk.js",
-    "main.js.map": "//github.com/Herve8/react-portfolio/static/js/main.f8fac3a7.chunk.js.map",
-    "runtime~main.js": "//github.com/Herve8/react-portfolio/static/js/runtime~main.cd5f7972.js",
-    "runtime~main.js.map": "//github.com/Herve8/react-portfolio/static/js/runtime~main.cd5f7972.js.map",
-    "static/js/2.56f67845.chunk.js": "//github.com/Herve8/react-portfolio/static/js/2.56f67845.chunk.js",
-    "static/js/2.56f67845.chunk.js.map": "//github.com/Herve8/react-portfolio/static/js/2.56f67845.chunk.js.map",
-    "index.html": "//github.com/Herve8/react-portfolio/index.html",
-    "precache-manifest.9e0ed4135d367134a5a8a250e2bb042b.js": "//github.com/Herve8/react-portfolio/precache-manifest.9e0ed4135d367134a5a8a250e2bb042b.js",
-    "service-worker.js": "//github.com/Herve8/react-portfolio/service-worker.js",
-    "static/css/main.902e7ad7.chunk.css.map": "//github.com/Herve8/react-portfolio/static/css/main.902e7ad7.chunk.css.map"
+    "main.css": "/Herve8/latest-react-portfolio/static/css/main.902e7ad7.chunk.css",
+    "main.js": "/Herve8/latest-react-portfolio/static/js/main.44109f39.chunk.js",
+    "main.js.map": "/Herve8/latest-react-portfolio/static/js/main.44109f39.chunk.js.map",
+    "runtime~main.js": "/Herve8/latest-react-portfolio/static/js/runtime~main.418f9271.js",
+    "runtime~main.js.map": "/Herve8/latest-react-portfolio/static/js/runtime~main.418f9271.js.map",
+    "static/js/2.56f67845.chunk.js": "/Herve8/latest-react-portfolio/static/js/2.56f67845.chunk.js",
+    "static/js/2.56f67845.chunk.js.map": "/Herve8/latest-react-portfolio/static/js/2.56f67845.chunk.js.map",
+    "index.html": "/Herve8/latest-react-portfolio/index.html",
+    "precache-manifest.9eefe6f7faecdedf5d803f9b034b3d54.js": "/Herve8/latest-react-portfolio/precache-manifest.9eefe6f7faecdedf5d803f9b034b3d54.js",
+    "service-worker.js": "/Herve8/latest-react-portfolio/service-worker.js",
+    "static/css/main.902e7ad7.chunk.css.map": "/Herve8/latest-react-portfolio/static/css/main.902e7ad7.chunk.css.map"
   }
 }
